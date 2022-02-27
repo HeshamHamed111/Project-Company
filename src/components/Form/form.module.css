@@ -1,0 +1,8 @@
+.test {
+    display: flex;
+    margin: 20px auto;
+}
+label {
+    width: 20%;
+    margin-right: 30px;
+}

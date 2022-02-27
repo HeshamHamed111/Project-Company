@@ -1,0 +1,26 @@
+body {
+  background-color: #d5d5ff;
+}
+.fontBold {
+  font-weight: bold;
+}
+.App {
+
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  flex-direction: column;
+}
+
+.show {
+  display: block;
+}
+.hide {
+  display: none;
+}
+.in {
+  display: block;
+}
+.out {
+  display: none;
+}
